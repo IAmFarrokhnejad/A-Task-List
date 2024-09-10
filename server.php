@@ -27,5 +27,5 @@ else
 }
 
 header("Refresh:4 URL=main.php");
-
+// Author: Morteza Farrokhnejad
 ?>
