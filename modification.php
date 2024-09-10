@@ -45,5 +45,5 @@ mysqli_stmt_execute($stmt);
 header("location:main.php");
 
 }
-
+// Author: Morteza Farrokhnejad
 ?>
