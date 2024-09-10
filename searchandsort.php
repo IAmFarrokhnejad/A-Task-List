@@ -11,5 +11,5 @@ if (isset($_POST['search']))
 
     header("location:main.php");
 }
-
+// Author: Morteza Farrokhnejad
 ?>
