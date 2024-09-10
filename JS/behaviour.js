@@ -1,4 +1,4 @@
-
+// Author: Morteza Farrokhnejad
 document.addEventListener('DOMContentLoaded', () => {
 
 	document.getElementById('modification').addEventListener("click",e=>{
