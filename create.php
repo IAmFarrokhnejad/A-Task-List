@@ -8,7 +8,7 @@ $due_date = filter_input(INPUT_POST, "d");
 
 $cnn = mysqli_connect("localhost", "Me", "1234", "ITEC327ToDoList");
 
-
+// Author: Morteza Farrokhnejad
 $query = "insert into tasks(title, description, due_date, priority, status)
           values(?, ?, ?, ?, ?)";
 
